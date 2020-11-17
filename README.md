@@ -1,2 +1,6 @@
 # hello-world
-Just a repository
+Hi Humans!
+
+Philani here, I like a lot of things.
+
+Bye.
